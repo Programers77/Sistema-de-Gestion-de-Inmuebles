@@ -1,0 +1,7 @@
+{
+  "name": "EstatePro Manager AI",
+  "description": "A professional real estate management dashboard for managing properties, users, and sales performance, featuring AI-powered marketing copy generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
